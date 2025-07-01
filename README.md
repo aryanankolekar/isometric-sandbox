@@ -99,12 +99,4 @@ Don't forget to give the project a star! Thanks again!
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## License
 
-Distributed under the MIT License. See `LICENSE` file for more information (if one exists - if not, you can add one!).
-
-## Contact
-
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/your-username/isometric-generator](https://github.com/your-username/isometric-generator)
