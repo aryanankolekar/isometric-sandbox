@@ -1,7 +1,7 @@
 {
   "name": "isometric-generator",
   "version": "1.0.0",
-  "description": "An isometric design generator to assist focus using 3D illusions",
+  "description": "A web-based application for creating and interacting with isometric patterns. Built with React, Three.js, and Tailwind CSS.",
   "main": "src/main.jsx",
   "scripts": {
     "dev": "vite",
